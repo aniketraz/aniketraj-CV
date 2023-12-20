@@ -25,5 +25,5 @@ pdflatex main.tex
 
 👤 **Aniket Raj**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/aniketraz)
-* GitHub: [@arasgungore](https://github.com/aniketraz)
+* LinkedIn: [@aniketraz](https://www.linkedin.com/in/aniketraz)
+* GitHub: [@aniketraz](https://github.com/aniketraz)
